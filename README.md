@@ -1,4 +1,4 @@
-# HR Attrition Analytics Dashboard (Tableau + Python)
+# Green HR  Analytics Dashboard (Tableau + Python)
 
 ![Python](https://img.shields.io/badge/Python-EDA-blue?logo=python)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau)
